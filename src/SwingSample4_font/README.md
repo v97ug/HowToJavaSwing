@@ -8,4 +8,5 @@ g.setFont(new Font("Arial", Font.BOLD, 30));
 
 
 実行結果
+
 ![result](result.png)
